@@ -38,8 +38,7 @@
     3. Time Complexity: O(1)
     4. Time Complexity: O(n) 
     5. Time Complexity: O(n^2)
-    6. Time Complexity: O(n) 
-        - includes is on a fixed length string // the max number of keys is 10  
+    6. Time Complexity: O(n)  
 
 ------------------------------------------------------------------
  - Short Answer
